@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aa-topanews.github.io/kangenews/sitemap.xml
